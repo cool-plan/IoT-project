@@ -4,7 +4,7 @@
  ### [For packet tracer](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple setup of an IoT environment in a manufacturing industry. The goal of this project was to enable employee to have remote access to the manufacturing operation With Packet Tracer I have set up wireless access point and connected  the server plus IoT devices. The Water drain IoT devices is responsible for draining water out of the tank. 
+Project consists of a simple setup of an IoT environment in a manufacturing industry. The goal of this project was to enable employee to have remote access to the manufacturing operation With Packet Tracer I have set up wireless access point and connected  the server plus IoT devices. The Water drain IoT devices is responsible for draining water out of the tank.  
 <br />
 
 
