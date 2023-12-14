@@ -20,7 +20,7 @@ Project consist of a simple setup of an IoT environment in a manufacturing indus
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Step1 choose a wireless equipment, for this project we are going to be using HomeRouter-PT-AC wireless Router. navigate to the bottom left of packet tracer and first click on Network Device, second Wireless Devices, third select the HomeRouter. Just left click on it and left click on the main console. <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
