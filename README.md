@@ -21,11 +21,16 @@ Project consist of a simple setup of an IoT environment in a manufacturing indus
 
 <p align="center">
 Step1 choose a wireless equipment, for this project we are going to be using HomeRouter-PT-AC wireless Router. navigate to the bottom left of packet tracer and first click on Network Device, second Wireless Devices, third select the HomeRouter. Just left click on it and left click on the main console. <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Xf5nh2Z.png" height="80%" width="80%" alt="Adding wireless access point"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 2: import a server:  <br/>
+ <br />
+Navigate to the bottom left and click on End Devices, left click on server as well. 
+Come back to the main console there will be a plus sign instead of the pointer cursor. 
+Click the anywhere on the console to paste the server.
+ <br/>
+<img src="https://i.imgur.com/Caoi1v5.png" height="80%" width="80%" alt="Adding a remote server"/>
 <br />
 <br />
 Enter the number of passes: <br/>
