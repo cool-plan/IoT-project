@@ -62,11 +62,13 @@ Confirm the DHCP is working by checking the ip address of the server in the Fast
 <br />go to the Services tap of the server and select IoT then turn on.
 <br />
 <br />
-<img src="https://i.imgur.com/HeVh5if.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HeVh5if.png" height="80%" width="80%" alt="Turning on the IoT service"/>
+<br />Now let go to the Desktop tap to enter our credentials. Click on desktop then IoT monitor.
+<br />
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Turning on the IoT service"/>
+<img src="https://i.imgur.com/GIJBo1x.png"  height="80%" width="80%" alt="Signing up for the remoter registration"/>
 </p>
 
 <!--
