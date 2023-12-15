@@ -33,8 +33,12 @@ Click the anywhere on the console to paste the server.
 <img src="https://i.imgur.com/Caoi1v5.png" height="80%" width="80%" alt="Adding a remote server"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 3: add the IoT devices. <br/>
+ <br />Navigate to the far-left bottom of the console and select End Device, at bottom of that select industrial and navigate to device section. We are going to add four IoT devices. 
+Click on Temperature monitor and drag it up to the main console. 
+Repeat this process for all the other three devices (Thermostat, Trip Sensor, Water Drain)
+ <br/>
+<img src="https://i.imgur.com/OEqtLiq.png" height="80%" width="80%" alt="Adding IoT devices"/>
 <br />
 <br />
 Confirm your selection:  <br/>
