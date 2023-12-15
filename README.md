@@ -58,15 +58,15 @@ Confirm the DHCP is working by checking the ip address of the server in the Fast
   <br/>
     <br />
   <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WFXXs31.png" height="80%" width="80%" alt="Configuration DHCP Between server and access point wireless"/>
+<br />go to the Services tap of the server and select IoT then turn on.
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HeVh5if.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Turning on the IoT service"/>
 </p>
 
 <!--
