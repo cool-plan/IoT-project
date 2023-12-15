@@ -41,11 +41,23 @@ Repeat this process for all the other three devices (Thermostat, Trip Sensor, Wa
 <img src="https://i.imgur.com/OEqtLiq.png" height="80%" width="80%" alt="Adding IoT devices"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 4 is to connect all the devices to the access point:  <br/>
+ <br />we are going to start with the server first.
+Connect the server with a Copper straight-Through cable to the access point.
+navigate to far left again and select connection and click on copper straight-through.
+Left click on server and select FastEthernet0 then left click on the wireless router and choose any interface of your choice. Here I choose G/E1 
+<br/>
+ 
+<img src="https://i.imgur.com/DYjDDAm.png" height="80%" width="80%" alt="Connecting all devices to the access point"/>
 <br />
-<br />
-Wait for process to complete (may take some time):  <br/>
+<br /> Step 4a: Configure the connection between the Wireless access point and the server.
+  <br/>
+  <br />left click on the server, navigate to config tap and enable the dhcp.
+Confirm the DHCP is working by checking the ip address of the server in the FastEthernet 
+
+  <br/>
+    <br />
+  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
