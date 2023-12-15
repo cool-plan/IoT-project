@@ -148,6 +148,7 @@ Repeat the above procedure for the other two devices.<br/>
    <br/>Now if you test it by holding alt on your keyboard and passing the mouse on the trip sensor the siren will turn red but will not turn off once you click away from the trip sensor. So, we need to make it do so.<br/>
    <br/>Click on condition again and click add in the next menu to set the condition.<br/>
    <br/>Follow the picture below. Make sure to press ok.<br/>
+   <img src= "https://i.imgur.com/CC6lzQd.png" height "80%" width "80%" alt="Setting condition for Trip Sensor and Siren"
    
 
   
