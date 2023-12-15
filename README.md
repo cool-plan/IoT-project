@@ -136,6 +136,20 @@ Repeat the above procedure for the other two devices.<br/>
   <br/>You can manage all the devices in this interface. We are going to set conditions for one or two devices in here.<br/>
   <br/>Click on conditions and click add.<br/>
 
+   <img src= "https://i.imgur.com/CaVd8K6.png" height "80%" width "80%" alt="Setting condition for the devices." 
+
+   <br/>Click the drop-down arrow in +condition and Select Trip Sensor, leave it to on and true.<br/>
+   <br/><br/>
+   <br/>Then click the other drop-down arrow in +Action and select Siren from the list of devices<br/>
+   <br/>Also make it on and true. Press ok.<br/>
+   <br/>
+   
+   <br/>
+   <br/>Now if you test it by holding alt on your keyboard and passing the mouse on the trip sensor the siren will turn red but will not turn off once you click away from the trip sensor. So, we need to make it do so.<br/>
+   <br/>Click on condition again and click add in the next menu to set the condition.<br/>
+   <br/>Follow the picture below. Make sure to press ok.<br/>
+   
+
   
   
 
