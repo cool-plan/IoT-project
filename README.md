@@ -129,8 +129,18 @@ Repeat the above procedure for the other two devices.<br/>
 
  <br/>password: passw0rd<br/>
  <br/>check if the connection was successful in IoT monitoring interface.<br/>
- 
-<img src= "https://i.imgur.com/kFtVBaD.png" height "80%" width "80%" alt="Water drain device is added to"
+ <img src= "https://i.imgur.com/kFtVBaD.png" height "80%" width "80%" alt="Water drain added to the Registration server"
+ <br/>Repeat the same step for other devices you want to add.
+ <br/>
+  <br/>Managing the devices from the server GUI. <br/>
+  <br/>You can manage all the devices in this interface. We are going to set conditions for one or two devices in here.<br/>
+  <br/>Click on conditions and click add.<br/>
+
+  
+  
+
+
+
 
 
 
