@@ -67,9 +67,13 @@ Confirm the DHCP is working by checking the ip address of the server in the Fast
 <br />
 <br />
 <br />
-Observe the wiped disk:  <br/>
+  <br/>
 <img src="https://i.imgur.com/GIJBo1x.png"  height="80%" width="80%" alt="Signing up for the remoter registration"/>
 </p>
+<br />
+<br />
+<br />
+  <br/>
 
 <!--
  ```diff
